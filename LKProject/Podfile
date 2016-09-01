@@ -1,0 +1,22 @@
+platform :ios, ‘8.0’
+
+pod 'Masonry'
+pod 'MGSwipeTableCell'
+pod 'ActionSheetPicker-3.0', '~> 2.0.5'
+pod 'RMUniversalAlert', '~> 0.7'
+pod 'MJRefresh', '~> 3.1.0'
+pod 'AFNetworking', '~> 3.0'
+pod 'DZNEmptyDataSet', '~> 1.7.3'
+pod 'UITableView+FDTemplateLayoutCell'
+pod 'MLInputDodger'
+
+#有需要则打开
+#pod 'FMDB', '~> 2.6.2'
+#pod 'MBProgressHUD', '~> 0.9.2'
+#pod 'SDWebImage', '~>3.7'
+#pod 'NJKWebViewProgress'
+#pod 'TOCropViewController'
+#pod 'KLCPopup'
+#pod 'ZXingObjC', '~> 3.0'
+#pod 'pop'
+#pod 'QBImagePickerController', '~> 3.4.0'
